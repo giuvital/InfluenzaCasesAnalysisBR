@@ -1,6 +1,6 @@
 <h2>Análise de Casos da Pandemia de Influenza H1N1 de 2009/2010 no Brasil</h2>
 
-Disclaimer/Aviso Legal: Este notebook tem um fim única e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
+Disclaimer/Aviso Legal: Este notebook tem um fim única e exclusivamente didático. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
 
 Análise de dados realizado por:
 - Giullia Antunes
