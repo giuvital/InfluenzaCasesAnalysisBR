@@ -15,10 +15,10 @@ Análise de dados realizado por:
 
 Origem dos dados: Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net [Datasus](http://tabnet.datasus.gov.br/).
 
-Os dados são referentes aos anos de 2009 e 2010, período da pandemia pelo vírus da influenza pandêmica A (H1N1) 2009.
-A base de dados do ano de 2009 foi encerrada em 02/08/2010 e a base de dados de 2010 foi encerrada em 21/01/2011.
-Definição de caso utilizada durante as fases da pandemia:
-Fase de contenção: 19/04/2009 a 18/07/2009 (semana epidemiológica 16 a 28 de 2009)"
-Declaração de fase pós-pandêmica pela OMS: 10/08/2010.
+<p>Os dados são referentes aos anos de 2009 e 2010, período da pandemia pelo vírus da influenza pandêmica A (H1N1) 2009.
+<p>A base de dados do ano de 2009 foi encerrada em 02/08/2010 e a base de dados de 2010 foi encerrada em 21/01/2011.
+<p>Definição de caso utilizada durante as fases da pandemia:
+<p>Fase de contenção: 19/04/2009 a 18/07/2009 (semana epidemiológica 16 a 28 de 2009)"
+<p>Declaração de fase pós-pandêmica pela OMS: 10/08/2010.
 
 
