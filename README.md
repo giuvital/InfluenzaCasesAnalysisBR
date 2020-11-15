@@ -4,9 +4,8 @@ Disclaimer/Aviso Legal: Este notebook tem um fim única e exclusivamente didáti
 
 Análise de dados realizado por:
 - Giullia Antunes
-- Letícia Santos
  
- 1º Semestre - ADS
+ 1º Semestre de 2020 - Análise e Desenvolvimento de Sistemas
 
 
 **Os dados análisados foram:**
